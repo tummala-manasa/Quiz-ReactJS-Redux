@@ -1,0 +1,3 @@
+export const ADD_QUESTION = "ADD_QUESTION";
+export const ADD_ANSWER = "ADD_ANSWER";
+export const GET_SAVED_QUESTION = "GET_SAVED_QUESTION";

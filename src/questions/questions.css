@@ -1,0 +1,13 @@
+button:disabled {
+  background-color: grey;
+}
+
+span {
+    font-size: 1.1em;
+}
+
+h3{
+    margin: 5px;
+    text-align: right;
+    font-style: italic;
+}
