@@ -22,10 +22,10 @@ You will also see any lint errors in the console.
 - If the user chooses to add a new question, we provide a form to add the question and the four options along with the correct answer. On submit, we store the new question in the **localstorage** of the browser. Next time the quiz is taken, we display this new question along with the other questions.
 
 ### Additional Sources
-You can find the same app build with different frameworks in the links below.
+You can find the same app built with different frameworks in the links below.
 - [https://github.com/manasaTummala/Quiz-VanillaJS](https://github.com/manasaTummala/Quiz-VanillaJS) Quiz with Vanilla JS
 - [https://github.com/manasaTummala/Quiz-ReactJS](https://github.com/manasaTummala/Quiz-ReactJS) Quiz with React and React Router.
 
 ### Demo
-![Demo](react-router-quiz.gif)
+![Demo](redux-quiz.gif)
 
